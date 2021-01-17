@@ -6,7 +6,7 @@
 const TEST_CONSTANTA = 'asd';
 $userName = "Igor";
 
-function show_something()
+function showSomething()
 {
     return 'SOMETHING';
 }
